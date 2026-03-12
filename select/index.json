@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Sports",
+  "base_artist": "Galileo Galilei",
+  "createdAt": "2026-03-12T16:07:03.366606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Range Rover Sports Truck",
+      "artist": "Lil Yachty feat. Lil Keed",
+      "has_synced": true,
+      "path": "select/01_Range_Rover_Sports_Truck_Lil_Yachty_feat._Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Range Rover Sports Truck (feat. Lil Keed)",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/02_Range_Rover_Sports_Truck_(feat._Lil_Keed)_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sports Center (feat. Ty Dolla $ign & 24hrs)",
+      "artist": "MadeinTYO feat. Ty Dolla $ign & 24hrs",
+      "has_synced": false,
+      "path": "select/03_Sports_Center_(feat._Ty_Dolla_$ign_&_24hrs)_MadeinTYO_feat._Ty_Dolla_$ign_&_24hrs.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sports Center (feat. Ty Dolla $ign & 24hrs)",
+      "artist": "24hrs, MadeinTYO, Ty Dolla $ign",
+      "has_synced": false,
+      "path": "select/04_Sports_Center_(feat._Ty_Dolla_$ign_&_24hrs)_24hrs,_MadeinTYO,_Ty_Dolla_$ign.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "American Sports",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/05_American_Sports_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sports Analogies",
+      "artist": "Crazy Ex-Girlfriend Cast feat. Scott Michael Foster & Vincent Rodriguez III",
+      "has_synced": false,
+      "path": "select/06_Sports_Analogies_Crazy_Ex-Girlfriend_Cast_feat._Scott_Michael_Foster_&_Vincent_Rodriguez_III.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sports Analogies",
+      "artist": "Crazy Ex-Girlfriend Cast feat․ Scott Michael Foster and Vincent Rodriguez III",
+      "has_synced": false,
+      "path": "select/07_Sports_Analogies_Crazy_Ex-Girlfriend_Cast_feat._Scott_Michael_Foster_and_Vincent_Rodriguez_III.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blood Sports",
+      "artist": "The Style Council",
+      "has_synced": true,
+      "path": "select/08_Blood_Sports_The_Style_Council.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sports Men",
+      "artist": "Haruomi Hosono",
+      "has_synced": false,
+      "path": "select/09_Sports_Men_Haruomi_Hosono.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sports Men",
+      "artist": "Haruomi Hosono (細野晴臣)",
+      "has_synced": false,
+      "path": "select/10_Sports_Men_Haruomi_Hosono_(細野晴臣).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hamworthy Sports & Leisure Center",
+      "artist": "Prinzhorn Dance School",
+      "has_synced": false,
+      "path": "select/11_Hamworthy_Sports_&_Leisure_Center_Prinzhorn_Dance_School.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sports",
+      "artist": "Beach Bunny",
+      "has_synced": true,
+      "path": "select/12_Sports_Beach_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Don't Live Today - Live San Diego Sports Arena, May 25, 1969",
+      "artist": "Jimi Hendrix",
+      "has_synced": false,
+      "path": "select/13_I_Don't_Live_Today_-_Live_San_Diego_Sports_Arena,_May_25,_1969_Jimi_Hendrix.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "(There's) No Room to Rhumba in a Sports Car",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/14_(There's)_No_Room_to_Rhumba_in_a_Sports_Car_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Afterglow - Live From Palais des Sports 1977",
+      "artist": "Genesis",
+      "has_synced": false,
+      "path": "select/15_Afterglow_-_Live_From_Palais_des_Sports_1977_Genesis.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Carpet Crawlers - Live From Palais des Sports 1977",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/16_Carpet_Crawlers_-_Live_From_Palais_des_Sports_1977_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dance On A Volcano - Live From Palais des Sports 1977",
+      "artist": "Genesis",
+      "has_synced": false,
+      "path": "select/17_Dance_On_A_Volcano_-_Live_From_Palais_des_Sports_1977_Genesis.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Know What I Like - Live From Palais des Sports 1977",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/18_I_Know_What_I_Like_-_Live_From_Palais_des_Sports_1977_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Robbery, Assault And Battery - Live From Palais des Sports 1977",
+      "artist": "Genesis",
+      "has_synced": false,
+      "path": "select/19_Robbery,_Assault_And_Battery_-_Live_From_Palais_des_Sports_1977_Genesis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sports",
+      "artist": "Galileo Galilei",
+      "has_synced": false,
+      "path": "select/pl_01_Sports_Galileo_Galilei.txt"
+    }
+  ]
+}
